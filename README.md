@@ -20,3 +20,5 @@ Photo Weather Project Steps
 DESIGN
 
 ![alt Design](https://github.com/Amlsakr/Photo-Weather/blob/master/IMG_20201203_230656.jpg?raw=true)
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/UygsuHDQxe4)
