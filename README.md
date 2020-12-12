@@ -16,3 +16,5 @@ Photo Weather Project Steps
 7- Zoom Image
 
 8- Share Image
+
+![alt Design](https://github.com/Amlsakr/Photo-Weather/blob/master/IMG_20201203_230656.jpg?raw=true)
